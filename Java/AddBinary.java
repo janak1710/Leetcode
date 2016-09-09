@@ -1,5 +1,5 @@
-public class Solution {
-    public String addBinary(String a, String b) {
+public class AddBinary {
+	public String addBinary(String a, String b) {
 
 		int length1 = a.length();
 		int length2 = b.length();
